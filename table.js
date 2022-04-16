@@ -1,3 +1,6 @@
+// create objects for names instead of adding them separatly later
+//create for loops to generate data in the table
+
 let table = document.createElement('table');
 let thead = document.createElement('thead');
 let tbody = document.createElement('tbody');
