@@ -60,9 +60,9 @@ tbody.appendChild(row_4);
 
 let row_5 = document.createElement('tr');
 let row_5_data_1 = document.createElement('td');
-row_5_data_1.innerHTML = "Mai";
+row_5_data_1.innerHTML = "Michell";
 let row_5_data_2 = document.createElement('td');
-row_5_data_2.innerHTML = "Unknown";
+row_5_data_2.innerHTML = "Valdivia";
 let row_5_data_3 = document.createElement('td');
 row_5_data_3.innerHTML = "MERN";
 
